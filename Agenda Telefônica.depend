@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1667739175 source:c:\users\valdomiro\documents\programas\repositorio-git\agenda telefônica\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+
